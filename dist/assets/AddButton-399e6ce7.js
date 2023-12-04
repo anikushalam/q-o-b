@@ -1,0 +1,1 @@
+import{j as a}from"./index-840de58d.js";import{s as e}from"./CreateButton-390a73d1.js";import{u as i}from"./AssestsBaseUrl-3e7ac4b0.js";const p=({label:t,onAction:s,customStyle:o})=>{const{t:n}=i(),r=()=>{s()};return a.jsx("div",{className:e.btn_container,onClick:r,style:o,children:n(t)})};export{p as A};

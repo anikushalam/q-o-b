@@ -1,0 +1,1 @@
+import{r as a,d as r,j as o}from"./index-840de58d.js";import{s as l}from"./Utils.module-b6acf444.js";const n=({onBackdropClose:t,customBackdropStyle:e})=>{const s=a.useCallback(()=>{if(t)t();else return null},[t]);return r.createPortal(o.jsx("div",{className:l.modal_backdrop,onClick:s,style:e}),document.getElementById("backdrop"))};export{n as B};
